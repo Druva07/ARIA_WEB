@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@google/genai": "^0.1.2",
+    "@google/genai": "latest",
     "mongoose": "^8.9.5",
     "next": "15.1.4",
     "react": "^19.0.0",
